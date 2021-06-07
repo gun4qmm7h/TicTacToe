@@ -1,7 +1,7 @@
 # TicTacToe
 
 ## Use
-This is a game of tictactoe. You can play 2 player or with an medium ai. This game has a timer and uses color for the tiles to keep track of.
+This is a game of tictactoe. You can play 2 player or with an medium level ai. This game has a timer and uses color for the tiles to make it easier for the user to keep track of.
 
 ## Features
 - Color Tiles
